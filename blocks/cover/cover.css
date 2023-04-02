@@ -1,0 +1,35 @@
+.cover {
+    background-image: url(../../images/cover/__background.png);
+    background-position: center;
+    background-repeat: no-repeat; 
+    background-size: cover;
+}
+.cover:hover .cover__overlay {
+    background: #2a2c2f8c;
+}
+@media screen and (min-width:320px) {
+    .cover {
+            margin-top: 42px;
+            margin-bottom: 0px;
+        }
+}
+@media screen and (min-width:768px) {
+    .cover {
+            margin-top: 42px;
+            margin-bottom: 0px;
+        }
+}
+@media screen and (min-width:1024px) {
+    .cover {
+            margin-top: 90px;
+            margin-bottom: 0px;
+        }
+}
+@media screen and (min-width:1280px) {
+    .cover {
+            margin: 0px auto;
+            width: 93%;
+            margin-top: 90px;
+            margin-bottom: 0px;
+        }
+}

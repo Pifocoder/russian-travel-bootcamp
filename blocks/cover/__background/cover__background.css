@@ -1,0 +1,13 @@
+.cover__background {
+    text-decoration: none;
+}
+@media screen and (min-width:1024px) {
+    .cover__background {
+            margin-left: 10px;
+        }
+}
+@media screen and (min-width:1280px) {
+    .cover__background {
+            margin-left: 10px;
+        }
+}

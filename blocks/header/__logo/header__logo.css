@@ -1,0 +1,41 @@
+.header__logo {
+    margin: 0 0;
+}
+@media screen and (min-width:320px) {
+    .header__logo {
+            padding-left: 16px;
+            padding-top: 16px;
+            width: 142px;
+            height: 42px
+        }
+}
+@media screen and (min-width:768px) {
+    .header__logo {
+            padding-left: 24px;
+            padding-top: 28px;
+            width: 176px;
+            height: 52px
+        }
+}
+@media screen and (min-width:1024px) {
+    .header__logo {
+            padding-left: 48px;
+            padding-top: 28px;
+            width: 176px;
+            height: 52px
+        }
+}
+@media screen and (min-width:1280px) {
+    .header__logo {
+            padding-left: 48px;
+            padding-top: 28px;
+            width: 176px;
+            height: 52px
+        }
+}
+@media screen and (min-width:1280px) {
+    .header__logo {
+            width: 176px;
+            height: 52px
+        }
+}
