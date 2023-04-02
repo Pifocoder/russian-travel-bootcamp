@@ -23,7 +23,7 @@
             height: 580px;
             width: 928px;
             margin: 55px calc((100% - 928px)/ 2);
-            margin-bottom: 0
+            margin-bottom: 0;
         }
 }
 @media screen and (min-width:1280px) {
@@ -31,6 +31,6 @@
             width: 984px;
             height: 615px;
             margin: 63px calc((100% - 984px)/ 2);
-            margin-bottom: 0
+            margin-bottom: 0;
         }
 }

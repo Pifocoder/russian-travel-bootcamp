@@ -13,27 +13,27 @@
     .lead__caption {
             margin: 4px 16px;
             margin-right: 0;
-            margin-bottom: 0
+            margin-bottom: 0;
         }
 }
 @media screen and (min-width:768px) {
     .lead__caption {
             margin: 4px 24px;
             margin-right: 0;
-            margin-bottom: 0
+            margin-bottom: 0;
         }
 }
 @media screen and (min-width:1024px) {
     .lead__caption {
             margin: 4px calc((100% - 928px)/ 2);
             margin-right: 0;
-            margin-bottom: 0
+            margin-bottom: 0;
         }
 }
 @media screen and (min-width:1280px) {
     .lead__caption {
             margin: 4px calc((100% - 984px)/ 2);
             margin-right: 0;
-            margin-bottom: 0
+            margin-bottom: 0;
         }
 }

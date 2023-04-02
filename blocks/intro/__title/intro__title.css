@@ -13,25 +13,25 @@
     .intro__title {
             font-size: 32px;
             line-height: 35px;
-            width: 68%
+            width: 68%;
         }
 }
 @media screen and (min-width:768px) {
     .intro__title {
             font-size: 54px;
             line-height: 58px;
-            width: 100%
+            width: 100%;
         }
 }
 @media screen and (min-width:1024px) {
     .intro__title {
             font-size: 54px;
-            line-height: 58px
+            line-height: 58px;
         }
 }
 @media screen and (min-width:1280px) {
     .intro__title {
             font-size: 54px;
-            line-height: 58px
+            line-height: 58px;
         }
 }
