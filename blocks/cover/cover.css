@@ -13,23 +13,14 @@
             margin-bottom: 0px;
         }
 }
-@media screen and (min-width:768px) {
-    .cover {
-            margin-top: 42px;
-            margin-bottom: 0px;
-        }
-}
 @media screen and (min-width:1024px) {
     .cover {
             margin-top: 90px;
-            margin-bottom: 0px;
         }
 }
 @media screen and (min-width:1280px) {
     .cover {
             margin: 0px auto;
             width: 93%;
-            margin-top: 90px;
-            margin-bottom: 0px;
         }
 }

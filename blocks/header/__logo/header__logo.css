@@ -20,22 +20,5 @@
 @media screen and (min-width:1024px) {
     .header__logo {
             padding-left: 48px;
-            padding-top: 28px;
-            width: 176px;
-            height: 52px;
-        }
-}
-@media screen and (min-width:1280px) {
-    .header__logo {
-            padding-left: 48px;
-            padding-top: 28px;
-            width: 176px;
-            height: 52px;
-        }
-}
-@media screen and (min-width:1280px) {
-    .header__logo {
-            width: 176px;
-            height: 52px;
         }
 }

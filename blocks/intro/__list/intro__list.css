@@ -13,13 +13,3 @@
             margin-top: 33px;
         }
 }
-@media screen and (min-width:1024px) {
-    .intro__list {
-            margin-top: 33px;
-        }
-}
-@media screen and (min-width:1280px) {
-    .intro__list {
-            margin-top: 33px;
-        }
-}

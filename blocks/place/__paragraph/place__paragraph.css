@@ -30,8 +30,5 @@
 @media screen and (min-width:1280px) {
     .place__paragraph {
             width: 78%;
-            margin-left: 0px;
-            font-size: 18px;
-            line-height: 29px;
         }
 }

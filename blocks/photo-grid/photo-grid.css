@@ -12,7 +12,6 @@
     .photo-grid {
             margin-top: 88px;
             grid-gap: 16px;
-            justify-content: center;
             grid-template-columns: repeat(2, auto);
         }
 }

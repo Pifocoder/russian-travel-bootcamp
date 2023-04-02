@@ -22,23 +22,15 @@
     .intro__text {
             margin-top: 38px;
             width: 97%;
-            font-size: 16px;
-            line-height: 26px;
         }
 }
 @media screen and (min-width:1024px) {
     .intro__text {
-            margin-top: 38px;
             width: 70%;
-            font-size: 16px;
-            line-height: 26px;
         }
 }
 @media screen and (min-width:1280px) {
     .intro__text {
-            margin-top: 38px;
             width: 61%;
-            font-size: 16px;
-            line-height: 26px;
         }
 }

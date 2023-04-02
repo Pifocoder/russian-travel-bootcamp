@@ -17,10 +17,3 @@
             line-height: 16px;
         }
 }
-@media screen and (min-width:1024px) {
-    .footer__copyright {
-            justify-self: center;
-            font-size: 14px;
-            line-height: 16px;
-        }
-}
