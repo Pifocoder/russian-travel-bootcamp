@@ -4,23 +4,31 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
-.cover:hover .cover__overlay {
-    background: #2a2c2f8c;
-}
+
 @media screen and (min-width:320px) {
     .cover {
             margin-top: 42px;
             margin-bottom: 0px;
+            min-height: 200px;
         }
+}
+@media screen and (min-width:768px) {
+    .cover {
+        min-height: 480px;
+        margin-top: 84px;
+    }
 }
 @media screen and (min-width:1024px) {
     .cover {
-            margin-top: 90px;
+            margin-top: 111px;
+            min-height: 641px;
         }
 }
 @media screen and (min-width:1280px) {
     .cover {
-            margin: 0px auto;
+            margin: 93px auto;
+            margin-bottom: 0px;
             width: 93%;
+            min-height: 739px;
         }
 }

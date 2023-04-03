@@ -1,4 +1,6 @@
 # Проект: Путешествие по России
+url: https://pifocoder.github.io/russian-travel-bootcamp/
+
 ### Обзор
 * Интро
 * Технологии

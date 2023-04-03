@@ -6,12 +6,13 @@
     line-height: 16px;
     text-align: center;
     color: #FFFFFF;
+    z-index: 2;
+    grid-row: 2;
+    justify-self: start;
 }
 @media screen and (min-width:320px) {
     .cover__subtitle {
             margin: 0px auto;
-            margin-top: 17px;
-            padding-bottom: 17px;
             width: 85%;
         }
 }
@@ -19,7 +20,6 @@
     .cover__subtitle {
             font-size: 18px;
             line-height: 22px;
-            margin-top: 33px;
             width: 47%;
         }
 }

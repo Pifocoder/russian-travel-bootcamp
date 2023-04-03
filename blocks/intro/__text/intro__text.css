@@ -14,14 +14,11 @@
     .intro__text {
             margin-top: 40px;
             width: 97%;
-            font-size: 16px;
-            line-height: 26px;
         }
 }
 @media screen and (min-width:768px) {
     .intro__text {
             margin-top: 38px;
-            width: 97%;
         }
 }
 @media screen and (min-width:1024px) {

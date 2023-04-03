@@ -20,21 +20,17 @@
             font-size: 30px;
             line-height: 36px;
             margin: 32px auto;
-            margin-bottom: 0;
-            width: 83%;
         }
 }
 @media screen and (min-width:1024px) {
     .lead__subtitle {
             margin: 32px auto;
-            margin-bottom: 0;
+            margin-bottom: 0px;
             width: 48%;
         }
 }
 @media screen and (min-width:1280px) {
     .lead__subtitle {
-            margin: 32px auto;
             width: 39%;
-            margin-bottom: 0;
         }
 }
