@@ -1,7 +1,7 @@
 .cover__overlay {
     text-decoration: none;
     display: grid;
-    grid-template-rows: auto auto;
+    grid-template-rows: 50% 50%;
     position:relative;
 }
 .cover__overlay::after {

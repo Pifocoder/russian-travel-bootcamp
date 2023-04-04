@@ -1,0 +1,10 @@
+.intro__list-bold-item {
+    list-style: none;
+    font-family: 'Inter', Arial, sans-serif;
+    font-weight: 700;
+    letter-spacing: 0;
+    font-size: 12px;
+    line-height: 18px;
+    text-align: left;
+    color: #fff;
+}

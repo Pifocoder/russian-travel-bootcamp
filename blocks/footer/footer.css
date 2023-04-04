@@ -11,9 +11,10 @@
 }
 @media screen and (min-width:768px) {
     .footer {
-            grid-template-columns: repeat(6, max-content);
+            grid-template-columns: repeat(5, max-content) auto;
             margin-top: 88px;
             margin-left: 24px;
+            margin-right: 24px;
             grid-column-gap: 19px;
             padding-bottom: 24px;
         }
@@ -22,5 +23,6 @@
     .footer {
             margin-top: 92px;
             margin-left: 48px;
+            margin-right: 48px;
         }
 }

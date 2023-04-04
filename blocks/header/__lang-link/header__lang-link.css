@@ -1,11 +1,14 @@
 .header__lang-link {
     margin: 0 0;
-    font-family: Inter;
+    font-family: 'Inter', Arial, sans-serif;
     font-weight: 400;
     letter-spacing: 0;
     text-align: right;
     text-decoration-line: none;
     color: #fff;
+}
+.header__lang-link:hover {
+    opacity: 0.8;
 }
 @media screen and (min-width:320px) {
     .header__lang-link {
